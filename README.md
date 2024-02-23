@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 - Hi, I’m Kushagra Srivastava
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 ![](https://hit.yhype.me/github/profile?user_id=118841840)
 
 <!-- - 👀 I’m highly interested in Computer Science and its intersection with Mathematics
