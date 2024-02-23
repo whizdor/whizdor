@@ -25,13 +25,13 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamsahu52)](https://github.com/bangaradi/github-readme-stats)
  -->
-
+<!--
 ## Github stats 📊
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    
+
  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Prathamsahu52&show_icons=true&hide_border=true&hide=issues&theme=radical" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamsahu52&layout=compact&theme=radical&langs_count=6" /></a>
   <br/>
@@ -59,4 +59,4 @@ You can click the Preview link to take a look at your changes.
  <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=kw9wxrrjo2eezx3i2239xqzn6">
   </div>
-</details> -->
+</details> --> -->
