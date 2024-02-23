@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - Hi, I’m Kushagra Srivastava
+
+![](https://hit.yhype.me/github/profile?user_id=118841840)
+
 <!-- - 👀 I’m highly interested in Computer Science and its intersection with Mathematics
 - 🌱 I’m currently interested in systems and high performance computing
 <!---
@@ -44,19 +47,19 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pratham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamsahu52&theme=chartreuse-dark&custom_title=Pratham's%20contribution%20graph&hide_border=true" /></a>
 
 </details>
-
+-->
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Prathamsahu52&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=whizdor&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
-## Random
+<!-- ## Random
 
 <details>
  <summary>Listening on the Spotify</summary>
  <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=kw9wxrrjo2eezx3i2239xqzn6">
   </div>
-</details> --> -->
+</details> -->
