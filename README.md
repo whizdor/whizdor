@@ -1,7 +1,3 @@
-### Hi there 👋
-
-- Hi, I’m Kushagra Srivastava
-
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
